@@ -1,0 +1,6 @@
+{
+  "name": "Telemetry Atelier",
+  "description": "Tesla Model 3 touchscreen driving telemetry visualizer inspired by Information is Beautiful.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
